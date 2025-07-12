@@ -1,11 +1,12 @@
-## Hello there 👋
-My name is Sebastian and I'm a M.Sc. CS student at the HTWG Konstanz.
-I'm currently writing my master thesis "**LLM-Based Agents for Autonomous Knowledge Retrieval: Finding and Summarizing Proprietary Knowledge Using RAG and ReAct Patterns**", where I'm researching possible architectures and design patterns of autonomous LLM agents.
+Hello there!
+I'm Sebastian, and I work at [SEITENBAU](www.seitenbau.com) as a software developer focusing on AI infrastructure.
+I also have a Master's degree in Computer Science.
+I finished my Master's degree in June 2025 by handing in my thesis, called 'An LLM-Based Multi-Source Retrieval Agent for Enhanced Knowledge Management'.
+The thesis reflects my research into the possible architectures and design patterns of autonomous LLM agents.
+You can find the published version of it on [GitHub](https://github.com/VoigtSebastian/master-thesis).
 
-You can reach me by sending a mail to [my university address](mailto:Sebastian.Voigt@htwg-konstanz.de).
+## Background
+I started working as a software developer in my third semester of my Bachelor's degree to finance my studies.
+I mostly worked at the [Swiss Library Service Platform (SLSP)](https://slsp.ch/), but I have since moved to work for SEITENBAU during and after writing my master's thesis.
 
-### Background
-I started working as a software developer in the third semester of my bachelor's degree and haven't stopped since.
-Most of the time I worked at the Swiss Library Service Platform, but I have since moved to Seitenbau to work on my master's thesis.
-
-I've worked professionally with **Scala**, **Java** and **Python**, while also using **C++** and **Rust** in my studies.
+I have worked professionally with Python, Scala and Java, and have also used C/C++ and Rust extensively in my studies.
