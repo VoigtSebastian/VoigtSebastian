@@ -1,4 +1,5 @@
 Hello there!
+
 I'm Sebastian, and I work at [SEITENBAU](www.seitenbau.com) as a software developer focusing on AI infrastructure.
 I also have a Master's degree in Computer Science.
 I finished my Master's degree in June 2025 by handing in my thesis, called 'An LLM-Based Multi-Source Retrieval Agent for Enhanced Knowledge Management'.
